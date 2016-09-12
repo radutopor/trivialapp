@@ -1,2 +1,2 @@
-# trivialapp
+# Trivial App
 General testing ground
